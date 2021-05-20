@@ -1,0 +1,2 @@
+LIBRARY	CalcDynamic
+EXPORTS Add @1
