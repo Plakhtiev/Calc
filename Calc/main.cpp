@@ -1,6 +1,6 @@
 #include <iostream>
 #include <Windows.h>
-#include "Calc.h"
+//#include "Calc.h"
 typedef int (*AddImpl)(int, int);
 //#define DllImport   __declspec( dllimport )
 
